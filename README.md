@@ -50,7 +50,7 @@ Flexibilidade • Organização • Comunicação • Liderança • Curiosidade
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--dev--rocha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-dev-rocha/)
-[![Email](https://img.shields.io/badge/Email-carloseduardorocha%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.rocha548@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-carlos.rocha548%40hotmail.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carlos.rocha548@hotmail.com)
 
 ---
 “Sempre pronto para enfrentar qualquer desafio!”
